@@ -1,0 +1,8 @@
+order_id,order_date,customer_id,product,quantity,price,city
+1001,01-01-2024,C001,Laptop,1,60000,Mumbai
+1002,02-01-2024,C002,Mouse,2,800,Pune
+1003,02-01-2024,C003,Keyboard,1,1500,Bangalore
+1004,03-01-2024,C001,Monitor,1,12000,Delhi
+1005,04-01-2024,C004,Laptop,2,60000,Bangalore
+1006,05-01-2024,C005,Mouse,,800,Mumbai
+1007,06-01-2024,C006,Keyboard,1,,Pune
