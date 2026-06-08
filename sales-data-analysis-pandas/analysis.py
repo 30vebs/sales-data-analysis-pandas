@@ -1,4 +1,4 @@
-# import pandas as pd
+# import sales-data-analysis-pandas as pd
 #
 # sales = pd.read_csv("sales.csv")
 # customers =pd.read_csv("customers.csv")
